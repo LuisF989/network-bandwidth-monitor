@@ -14,6 +14,8 @@ Un monitor de tráfico de red en tiempo real desarrollado en Python que calcula 
 ##  Instalación y Ejecución
 1. Clonar el repositorio:
    ```bash
+   ```bash
+   git clone [https://github.com/LuisF989/network-bandwidth-monitor.git](https://github.com/LuisF989/network-bandwidth-monitor.git)
    
 Instalar dependencias:
 pip install psutil
